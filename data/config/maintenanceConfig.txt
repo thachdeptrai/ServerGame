@@ -1,0 +1,4 @@
+hours=18
+mins=55
+seconds=47
+AutoMaintenance=true
